@@ -1,0 +1,2 @@
+# Cloud-Removal-in-Remote-Sensing-Using-Structural-Representation-Guided-GAN
+This repository contains my complete implementation of the Structural Representation-Guided GAN (SRG-GAN) for cloud removal in satellite imagery. The model aims to reconstruct cloud-free optical images from cloudy Sentinel-2 inputs by leveraging:  Structural guidance  Multi-scale perceptual features  Gradient constraints  Adversarial learning . 
